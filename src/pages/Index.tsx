@@ -94,7 +94,7 @@ const Index = () => {
 
           {/* Additional navigation hints */}
           <div
-            className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 animate-fade-in"
+            className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 animate-fade-in"
             style={{ animationDelay: "1.2s" }}
           >
             <div className="text-center">
@@ -111,15 +111,6 @@ const Index = () => {
                 <span className="text-coral text-xl">🎨</span>
               </div>
               <h3 className="font-rubik font-medium text-charcoal">О бренде</h3>
-            </div>
-
-            <div className="text-center">
-              <div className="w-12 h-12 mx-auto mb-3 bg-sage/20 rounded-full flex items-center justify-center">
-                <span className="text-sage text-xl">🤝</span>
-              </div>
-              <h3 className="font-rubik font-medium text-charcoal">
-                Корпоративные клиенты
-              </h3>
             </div>
 
             <div className="text-center">
