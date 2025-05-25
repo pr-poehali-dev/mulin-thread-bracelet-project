@@ -73,7 +73,6 @@ const Index = () => {
               <div className="w-12 h-12 mx-auto mb-3 bg-coral/20 rounded-full flex items-center justify-center">
                 <span className="text-coral text-xl">📞</span>
               </div>
-              <h3 className="font-rubik font-medium text-charcoal">Контакты</h3>
             </div>
           </div>
 
@@ -117,7 +116,6 @@ const Index = () => {
               <div className="w-12 h-12 mx-auto mb-3 bg-coral/20 rounded-full flex items-center justify-center">
                 <span className="text-coral text-xl">📞</span>
               </div>
-              <h3 className="font-rubik font-medium text-charcoal">Контакты</h3>
             </div>
           </div>
         </div>
